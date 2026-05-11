@@ -4,6 +4,12 @@ This is a simple Homepage website assignment made using only HTML, CSS, and Java
 
 The project is created for Josh Technology Group home assignment.
 
+## Live Demo
+
+Click here to view the project:
+
+[Live Website](https://shubham91998.github.io/Assignment-JTG/)
+
 ## Features
 
 - Responsive Navbar
